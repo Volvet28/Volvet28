@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Volvet28 my name is Mohamed.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Mohamed 
 
 <!---
 Volvet28/Volvet28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
